@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\telatriagem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:telatriagem.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\telarec.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:telarec.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\telamedico.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:telamedico.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:menu.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:login.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\historicoatendimentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:historicoatendimentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\historicoatendimentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:historicoatendimentos.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\cad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|solutionrelative:cad.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|P1Hospital||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B203DE55-4E20-4964-9F6E-921426B0689D}|P1Hospital.vbproj|f:\\dsm\\tdp\\p1hospitaldefinitivo\\p1hosp\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "P1Hospital",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\P1Hospital.vbproj",
+              "RelativeDocumentMoniker": "P1Hospital.vbproj",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\P1Hospital.vbproj",
+              "RelativeToolTip": "P1Hospital.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-15T19:32:11.921Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TelaTriagem.vb [Design]",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\TelaTriagem.vb",
+              "RelativeDocumentMoniker": "TelaTriagem.vb",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\TelaTriagem.vb [Design]",
+              "RelativeToolTip": "TelaTriagem.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T21:11:14.121Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TelaRec.vb [Design]",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\TelaRec.vb",
+              "RelativeDocumentMoniker": "TelaRec.vb",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\TelaRec.vb [Design]",
+              "RelativeToolTip": "TelaRec.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T21:10:01.772Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TelaMedico.vb [Design]",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\TelaMedico.vb",
+              "RelativeDocumentMoniker": "TelaMedico.vb",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\TelaMedico.vb [Design]",
+              "RelativeToolTip": "TelaMedico.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T21:08:11.146Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "packages.config",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\packages.config",
+              "RelativeDocumentMoniker": "packages.config",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\packages.config",
+              "RelativeToolTip": "packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-04-15T21:08:09.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.vb [Design]",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\Menu.vb",
+              "RelativeDocumentMoniker": "Menu.vb",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\Menu.vb [Design]",
+              "RelativeToolTip": "Menu.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T21:05:23.146Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.vb [Design]",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\Login.vb",
+              "RelativeDocumentMoniker": "Login.vb",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\Login.vb [Design]",
+              "RelativeToolTip": "Login.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T21:04:08.725Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HistoricoAtendimentos.vb",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\HistoricoAtendimentos.vb",
+              "RelativeDocumentMoniker": "HistoricoAtendimentos.vb",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\HistoricoAtendimentos.vb",
+              "RelativeToolTip": "HistoricoAtendimentos.vb",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAIwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T21:02:38.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HistoricoAtendimentos.vb [Design]",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\HistoricoAtendimentos.vb",
+              "RelativeDocumentMoniker": "HistoricoAtendimentos.vb",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\HistoricoAtendimentos.vb [Design]",
+              "RelativeToolTip": "HistoricoAtendimentos.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T21:01:55.175Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "cad.vb [Design]",
+              "DocumentMoniker": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\cad.vb",
+              "RelativeDocumentMoniker": "cad.vb",
+              "ToolTip": "F:\\DSM\\TdP\\P1Hospitaldefinitivo\\P1Hosp\\cad.vb [Design]",
+              "RelativeToolTip": "cad.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2025-04-15T20:59:45.185Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
