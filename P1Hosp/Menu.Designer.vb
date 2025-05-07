@@ -29,8 +29,11 @@ Partial Class Menu
         Me.btn_med = New System.Windows.Forms.Button()
         Me.btn_tri = New System.Windows.Forms.Button()
         Me.Button1 = New System.Windows.Forms.Button()
+<<<<<<< HEAD
         Me.Button2 = New System.Windows.Forms.Button()
         Me.Button3 = New System.Windows.Forms.Button()
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         Me.SuspendLayout()
         '
         'Label1
@@ -105,6 +108,7 @@ Partial Class Menu
         Me.Button1.Text = "Historico de Atendimentos"
         Me.Button1.UseVisualStyleBackColor = False
         '
+<<<<<<< HEAD
         'Button2
         '
         Me.Button2.BackColor = System.Drawing.Color.DeepSkyBlue
@@ -126,14 +130,20 @@ Partial Class Menu
         Me.Button3.Text = "Voltar"
         Me.Button3.UseVisualStyleBackColor = True
         '
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         'Menu
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+<<<<<<< HEAD
         Me.ClientSize = New System.Drawing.Size(1424, 881)
         Me.Controls.Add(Me.Button3)
         Me.Controls.Add(Me.Button2)
+=======
+        Me.ClientSize = New System.Drawing.Size(1424, 985)
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btn_tri)
         Me.Controls.Add(Me.btn_med)
@@ -157,6 +167,9 @@ Partial Class Menu
     Friend WithEvents btn_med As Button
     Friend WithEvents btn_tri As Button
     Friend WithEvents Button1 As Button
+<<<<<<< HEAD
     Friend WithEvents Button2 As Button
     Friend WithEvents Button3 As Button
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
 End Class

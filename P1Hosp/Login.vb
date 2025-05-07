@@ -2,7 +2,10 @@
 Imports System.IO
 Public Class login
     Dim senha As String
+<<<<<<< HEAD
     'Dim ativo As Integer
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
 
     Private Sub Form_recep_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Dim caminhoDB As String = Application.StartupPath & "\banco.db"
@@ -12,6 +15,7 @@ Public Class login
             conexao.Open()
 
             ' Tabela colaboradores
+<<<<<<< HEAD
 
             Dim sqlColaboradores As String = "CREATE TABLE colaboradores (
             id INTEGER PRIMARY KEY AUTOINCREMENT,
@@ -22,6 +26,13 @@ Public Class login
             INSERT INTO colaboradores (email, senha, adm) VALUES('admin', 'admin', 1);            
        
 "
+=======
+            Dim sqlColaboradores As String = "CREATE TABLE colaboradores (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            cpf TEXT UNIQUE,
+            senha TEXT
+        )"
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
             Dim comandoColaboradores As New SQLiteCommand(sqlColaboradores, conexao)
             comandoColaboradores.ExecuteNonQuery()
 
@@ -61,6 +72,7 @@ Public Class login
         Dim caminhoDB As String = Application.StartupPath & "\banco.db"
         Dim conexao As New SQLiteConnection("Data Source=" & caminhoDB)
         conexao.Open()
+<<<<<<< HEAD
         Dim query As New SQLiteCommand("SELECT * FROM colaboradores WHERE email = @user", conexao)
         query.Parameters.AddWithValue("@user", txt_usuario.Text)
         Dim leitor As SQLiteDataReader = query.ExecuteReader()
@@ -68,21 +80,39 @@ Public Class login
         While leitor.Read()
             senha = leitor("senha")
             isAdmin = Convert.ToInt32(leitor("adm"))
+=======
+        Dim query As New SQLiteCommand("SELECT * FROM colaboradores WHERE id = @assinatura", conexao)
+        query.Parameters.AddWithValue("@assinatura", txt_assinatura.Text)
+        Dim leitor As SQLiteDataReader = query.ExecuteReader()
+        While leitor.Read()
+            senha = leitor("senha")
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         End While
         leitor.Close()
         conexao.Close()
         If senha = "" Then
+<<<<<<< HEAD
             MessageBox.Show("Nehum registro com este usuario", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+=======
+            MessageBox.Show("Nehum registro com esta assinatura digital", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
             Exit Sub
         ElseIf senha <> txt_senha.Text Then
             MessageBox.Show("Senha incorreta", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
             Exit Sub
+<<<<<<< HEAD
         ElseIf txt_senha.Text = "" Or txt_usuario.Text = "" Then
             MessageBox.Show("Os campos Usuario e senha são obrigatorios", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
             Exit Sub
         Else
             veradm(isAdmin)
 
+=======
+        ElseIf txt_senha.Text = "" Or txt_assinatura.Text = "" Then
+            MessageBox.Show("Os campos Assinatura digital e senha são obrigatorios", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation)
+            Exit Sub
+        Else
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
             Dim novaTela As New Menu()
             novaTela.Show()
             Me.Hide()
@@ -94,10 +124,13 @@ Public Class login
         novaTela.Show()
         Me.Hide()
     End Sub
+<<<<<<< HEAD
 
     Private Sub Button1_Click(sender As Object, e As EventArgs)
         Dim novaTela As New login()
         novaTela.Show()
         Me.Close()
     End Sub
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
 End Class

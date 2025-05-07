@@ -27,7 +27,11 @@ Partial Class login
         Me.Label3 = New System.Windows.Forms.Label()
         Me.btn_cadastrar = New System.Windows.Forms.Button()
         Me.Label4 = New System.Windows.Forms.Label()
+<<<<<<< HEAD
         Me.txt_usuario = New System.Windows.Forms.TextBox()
+=======
+        Me.txt_assinatura = New System.Windows.Forms.TextBox()
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         Me.btn_criar = New System.Windows.Forms.Button()
         Me.txt_senha = New System.Windows.Forms.TextBox()
         Me.SuspendLayout()
@@ -50,9 +54,15 @@ Partial Class login
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(566, 183)
         Me.Label3.Name = "Label3"
+<<<<<<< HEAD
         Me.Label3.Size = New System.Drawing.Size(86, 25)
         Me.Label3.TabIndex = 36
         Me.Label3.Text = "Usuario"
+=======
+        Me.Label3.Size = New System.Drawing.Size(180, 25)
+        Me.Label3.TabIndex = 36
+        Me.Label3.Text = "Assinatura Digital"
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         '
         'btn_cadastrar
         '
@@ -77,6 +87,7 @@ Partial Class login
         Me.Label4.TabIndex = 43
         Me.Label4.Text = "Senha"
         '
+<<<<<<< HEAD
         'txt_usuario
         '
         Me.txt_usuario.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
@@ -84,6 +95,15 @@ Partial Class login
         Me.txt_usuario.Name = "txt_usuario"
         Me.txt_usuario.Size = New System.Drawing.Size(300, 35)
         Me.txt_usuario.TabIndex = 42
+=======
+        'txt_assinatura
+        '
+        Me.txt_assinatura.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txt_assinatura.Location = New System.Drawing.Point(571, 213)
+        Me.txt_assinatura.Name = "txt_assinatura"
+        Me.txt_assinatura.Size = New System.Drawing.Size(300, 35)
+        Me.txt_assinatura.TabIndex = 42
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         '
         'btn_criar
         '
@@ -111,10 +131,17 @@ Partial Class login
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackColor = System.Drawing.Color.DeepSkyBlue
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+<<<<<<< HEAD
         Me.ClientSize = New System.Drawing.Size(1424, 881)
         Me.Controls.Add(Me.btn_cadastrar)
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.txt_usuario)
+=======
+        Me.ClientSize = New System.Drawing.Size(1424, 985)
+        Me.Controls.Add(Me.btn_cadastrar)
+        Me.Controls.Add(Me.Label4)
+        Me.Controls.Add(Me.txt_assinatura)
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         Me.Controls.Add(Me.btn_criar)
         Me.Controls.Add(Me.txt_senha)
         Me.Controls.Add(Me.Label3)
@@ -135,7 +162,11 @@ Partial Class login
     Friend WithEvents Label3 As Label
     Friend WithEvents btn_cadastrar As Button
     Friend WithEvents Label4 As Label
+<<<<<<< HEAD
     Friend WithEvents txt_usuario As TextBox
+=======
+    Friend WithEvents txt_assinatura As TextBox
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
     Friend WithEvents btn_criar As Button
     Friend WithEvents txt_senha As TextBox
 End Class

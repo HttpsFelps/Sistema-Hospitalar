@@ -96,19 +96,25 @@
     <Import Include="System.Threading.Tasks" />
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <Compile Include="adm.Designer.vb">
       <DependentUpon>adm.vb</DependentUpon>
     </Compile>
     <Compile Include="adm.vb">
       <SubType>Form</SubType>
     </Compile>
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
     <Compile Include="cad.Designer.vb">
       <DependentUpon>cad.vb</DependentUpon>
     </Compile>
     <Compile Include="cad.vb">
       <SubType>Form</SubType>
     </Compile>
+<<<<<<< HEAD
     <Compile Include="geral.vb" />
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
     <Compile Include="Login.Designer.vb">
       <DependentUpon>Login.vb</DependentUpon>
     </Compile>
@@ -159,9 +165,12 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+<<<<<<< HEAD
     <EmbeddedResource Include="adm.resx">
       <DependentUpon>adm.vb</DependentUpon>
     </EmbeddedResource>
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
     <EmbeddedResource Include="cad.resx">
       <DependentUpon>cad.vb</DependentUpon>
     </EmbeddedResource>

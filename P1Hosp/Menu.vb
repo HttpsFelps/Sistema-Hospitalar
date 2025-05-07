@@ -54,6 +54,7 @@ Public Class Menu
         End Try
     End Sub
 
+<<<<<<< HEAD
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         If Not admin Then
             MessageBox.Show("acesso restrito para admins")
@@ -72,4 +73,8 @@ Public Class Menu
         novaTela.Show()
         Me.Close()
     End Sub
+=======
+
+
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
 End Class

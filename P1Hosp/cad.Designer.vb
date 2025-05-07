@@ -24,6 +24,10 @@ Partial Class cad
     Private Sub InitializeComponent()
         Dim resources As System.ComponentModel.ComponentResourceManager = New System.ComponentModel.ComponentResourceManager(GetType(cad))
         Me.Label3 = New System.Windows.Forms.Label()
+<<<<<<< HEAD
+=======
+        Me.txt_cpf = New System.Windows.Forms.MaskedTextBox()
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         Me.Label4 = New System.Windows.Forms.Label()
         Me.txt_senhaconfirm = New System.Windows.Forms.TextBox()
         Me.btn_criar = New System.Windows.Forms.Button()
@@ -31,8 +35,11 @@ Partial Class cad
         Me.txt_senha = New System.Windows.Forms.TextBox()
         Me.RECEPÇÃO = New System.Windows.Forms.Label()
         Me.Button2 = New System.Windows.Forms.Button()
+<<<<<<< HEAD
         Me.txt_email = New System.Windows.Forms.MaskedTextBox()
         Me.Button1 = New System.Windows.Forms.Button()
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         Me.SuspendLayout()
         '
         'Label3
@@ -42,9 +49,26 @@ Partial Class cad
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 15.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.Label3.Location = New System.Drawing.Point(555, 177)
         Me.Label3.Name = "Label3"
+<<<<<<< HEAD
         Me.Label3.Size = New System.Drawing.Size(72, 25)
         Me.Label3.TabIndex = 41
         Me.Label3.Text = "E-mail"
+=======
+        Me.Label3.Size = New System.Drawing.Size(54, 25)
+        Me.Label3.TabIndex = 41
+        Me.Label3.Text = "CPF"
+        '
+        'txt_cpf
+        '
+        Me.txt_cpf.BackColor = System.Drawing.SystemColors.Window
+        Me.txt_cpf.Font = New System.Drawing.Font("Microsoft Sans Serif", 18.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.txt_cpf.ForeColor = System.Drawing.SystemColors.WindowText
+        Me.txt_cpf.Location = New System.Drawing.Point(560, 206)
+        Me.txt_cpf.Mask = "000,000,000-99"
+        Me.txt_cpf.Name = "txt_cpf"
+        Me.txt_cpf.Size = New System.Drawing.Size(300, 35)
+        Me.txt_cpf.TabIndex = 40
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         '
         'Label4
         '
@@ -118,6 +142,7 @@ Partial Class cad
         Me.Button2.Text = "Voltar"
         Me.Button2.UseVisualStyleBackColor = False
         '
+<<<<<<< HEAD
         'txt_email
         '
         Me.txt_email.BackColor = System.Drawing.SystemColors.Window
@@ -137,16 +162,25 @@ Partial Class cad
         Me.Button1.Text = "voltar"
         Me.Button1.UseVisualStyleBackColor = True
         '
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         'cad
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
         Me.BackgroundImage = CType(resources.GetObject("$this.BackgroundImage"), System.Drawing.Image)
+<<<<<<< HEAD
         Me.ClientSize = New System.Drawing.Size(1424, 881)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.Button2)
         Me.Controls.Add(Me.Label3)
         Me.Controls.Add(Me.txt_email)
+=======
+        Me.ClientSize = New System.Drawing.Size(1424, 985)
+        Me.Controls.Add(Me.Button2)
+        Me.Controls.Add(Me.Label3)
+        Me.Controls.Add(Me.txt_cpf)
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
         Me.Controls.Add(Me.Label4)
         Me.Controls.Add(Me.txt_senhaconfirm)
         Me.Controls.Add(Me.btn_criar)
@@ -166,6 +200,10 @@ Partial Class cad
     End Sub
 
     Friend WithEvents Label3 As Label
+<<<<<<< HEAD
+=======
+    Friend WithEvents txt_cpf As MaskedTextBox
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
     Friend WithEvents Label4 As Label
     Friend WithEvents txt_senhaconfirm As TextBox
     Friend WithEvents btn_criar As Button
@@ -173,6 +211,9 @@ Partial Class cad
     Friend WithEvents txt_senha As TextBox
     Friend WithEvents RECEPÇÃO As Label
     Friend WithEvents Button2 As Button
+<<<<<<< HEAD
     Friend WithEvents txt_email As MaskedTextBox
     Friend WithEvents Button1 As Button
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
 End Class

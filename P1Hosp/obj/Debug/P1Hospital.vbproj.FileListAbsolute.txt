@@ -167,6 +167,7 @@ F:\DSM\TdP\P1Hospitaldefinitivo\P1Hosp\bin\Debug\System.Data.SQLite.xml
 F:\DSM\TdP\P1Hospitaldefinitivo\P1Hosp\obj\Debug\P1Hospital.vbproj.CopyComplete
 F:\DSM\TdP\P1Hospitaldefinitivo\P1Hosp\obj\Debug\P1Hospital.vbproj.AssemblyReference.cache
 F:\DSM\TdP\P1Hospitaldefinitivo\P1Hosp\obj\Debug\P1Hospital.vbproj.SuggestedBindingRedirects.cache
+<<<<<<< HEAD
 C:\Users\Igorzinho\Pictures\Sistema-Hospitalar-main\Sistema-Hospitalar-main\P1Hosp\obj\Debug\P1Hospital.vbproj.AssemblyReference.cache
 C:\Users\Igorzinho\Pictures\Sistema-Hospitalar-main\Sistema-Hospitalar-main\P1Hosp\obj\Debug\P1Hospital.exe
 C:\Users\Igorzinho\Pictures\Sistema-Hospitalar-main\Sistema-Hospitalar-main\P1Hosp\obj\Debug\P1Hospital.xml
@@ -199,3 +200,5 @@ C:\Users\Igorzinho\Music\Sistema-Hospitalar01\Sistema-Hospitalar-main\P1Hosp\obj
 C:\Users\Igorzinho\Music\Sistema-Hospitalar01\Sistema-Hospitalar-main\P1Hosp\obj\Debug\P1Hospital.xml
 C:\Users\Igorzinho\Music\Sistema-Hospitalar01\Sistema-Hospitalar-main\P1Hosp\obj\Debug\P1Hospital.pdb
 C:\Users\Igorzinho\Music\Sistema-Hospitalar01\Sistema-Hospitalar-main\P1Hosp\obj\Debug\P1Hospital.adm.resources
+=======
+>>>>>>> 62425db003551673fa92ef7a1d4001a33968cc7f
